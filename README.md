@@ -3,7 +3,9 @@ GT0SRT/GT0SRT is a ✨ special ✨ repository because its `README.md` (this file
 You can click the Preview link to take a look at your changes.
 --->
 <div align="center">
+  
 ![cover](cover.png)
+
 </div>
 
 <div align="center"> 
